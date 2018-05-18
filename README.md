@@ -1,8 +1,8 @@
-# NEUBachelorThesis-NG
+# NEU Bachelor Thesis - NG
 
 脱胎自东北大学软件学院提供的本科生毕业论文模板。
 
-Fuck LaTeX。
+LaTeX-free™
 
 ![LaTeX](LaTeX.gif)
 
